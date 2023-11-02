@@ -1,5 +1,7 @@
 https://app.powerbi.com/groups/me/reports/144fe0b4-006f-4ea9-9ad8-3eaf2d62afdf/ReportSection?experience=power-bi
 
+
+
 # Hotel-Reservation-and-cancellation-analysis
 To create this dashboard, I leveraged a variety of data sources. These sources included data collected from google, such as reservation and booking records, cancellation. This also provide comprehensive insights and data-driven decision-making capabilities for hotel management and stakeholders. 
 
